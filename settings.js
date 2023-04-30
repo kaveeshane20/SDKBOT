@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['947053449xx'] //ur owner number
+global.ownername = "Kaveesha Nethum" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'SDK BOT' //ur bot name
+global.wm = "SDK BOT" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 SDK BOT ²⁰²³'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -64,24 +64,24 @@ global.SEX_VIDEO_DOWNLOAD ='true'
 global.KICK_MSG = ' ' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: youtube.com" //ur yt chanel name
+global.socialm = "https://github.com/kaveeshane20" //ur github or insta name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
-global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
+global.websitex = "https://youtu.be" //ur website to be displayed
+global.botscript = 'https://github.com/kaveeshane20' //script link
 
 //Alive 
 global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a7c660ecbfffb.jpg`
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "SDK BOT 💃" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
 
 //Antilink
-global.antilink = 'true'
+global.antilink = 'false'
 
 
 //OTHERS  
